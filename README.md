@@ -2,6 +2,8 @@
 
 A filterable image gallery built with HTML, CSS, and JavaScript.
 
+preview 
+
 https://github.com/srinathsree66/Filterable-image-gallery/assets/113054616/301db802-36ac-473f-8fa7-ff421531154e
 
 
