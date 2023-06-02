@@ -21,7 +21,7 @@ The Filterable Image Gallery is a web application that allows users to browse an
 
 ## Demo
 
-Check out the live demo [here](https://your-demo-url.com).
+Check out the live demo [here](https://srinathsree66.github.io/Filterable-image-gallery/).
 
 ## Screenshots
 
